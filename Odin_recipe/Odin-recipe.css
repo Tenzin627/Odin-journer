@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.head{
+    border: 1px solid black;
+    background-color: rgb(38, 66, 90);
+}
+header h1{
+    text-align: center;
+    overflow: hidden;
+    width: 80%;
+    color: rgb(231, 184, 184);
+    margin: auto;
+}
+.nav{
+    background-color: gray;
+    padding: 10px;
+}
+ul li{
+    display: inline;
+}
+ul li a{
+    color: brown;
+    display: inline;
+    text-decoration: none;
+}
+li a:hover{
+    color: rgb(27, 30, 106);
+    background-color: rgb(99, 99, 99);
+}
